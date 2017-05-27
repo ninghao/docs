@@ -6,11 +6,16 @@
 
 比如 WordPress，Drupal，还有 Laravel，它们都是基于 PHP 开发的。以后你的网站想用它们，你现在就应该去学一下 PHP 这门语言。如果以后你打算用 Rails 框架开发网站，现在就要学一下 Ruby 语言。所以在这里你会遇到一个分支，你现在的选择会影响到以后的一系列的东西。不过也别太纠结，很多语言之间都有相似的东西，掌握了其中的一门语言，再去学习其它的语言也会比较容易了。
 
-我假设你现在没谱以后到底要用什么，我先为你选择一下，可以先学 PHP 。这样以后你可以基于 WordPress，Drupal，Laravel 这些东西去开发你的网站。定下要学的后端语言，同时你还得再学一种数据库的查询语言叫 SQL。
+宁皓网目前主要为你提供了两条路，学 Ruby，以后可以基于 Rails 框架开发网站。学 PHP ，以后你可以基于 WordPress，Drupal，Laravel 这些东西去开发你的网站。定下要学的后端语言，同时你还得再学一种数据库的查询语言叫 SQL。
 
-## 任务
+## 任务（PHP）
 
 1. 《[PHP](https://ninghao.net/package/php?a=51729)》
+2. 《[SQL](https://ninghao.net/package/mysql?a=51729)》
+
+## 任务（Ruby）
+
+1. 《[Ruby](https://ninghao.net/package/ruby?a=51729)》
 2. 《[SQL](https://ninghao.net/package/mysql?a=51729)》
 
 ## 下一步
