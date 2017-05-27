@@ -7,7 +7,7 @@
 订阅即可在线学习所有课程。宁皓网收取订阅年费，每次订阅你都可以得到 365 天的会员资格。
 
 1. [注册成为宁皓网会员](https://ninghao.net/user/register)
-2. [提交订单并支付](https://ninghao.net/signup)，完成订阅
+2. [订阅提交订单并支付](https://ninghao.net/signup)
 3. [在线学习所有课程](https://ninghao.net/learn)
 
 
