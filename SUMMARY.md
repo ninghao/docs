@@ -4,6 +4,6 @@
 * [起步](get-started.md)
 * [学习路径](path.md)
   * [基础](basic.md)
-  * [页面](page.md)
+  * [页面设计](page.md)
   * [基础设施](infrastructure.md)
 
