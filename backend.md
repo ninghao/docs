@@ -10,12 +10,14 @@
 
 宁皓网目前主要为你提供了两条路，学 Ruby，以后可以基于 Rails 框架开发网站。学 PHP ，以后你可以基于 WordPress，Drupal，Laravel 这些东西去开发你的网站。定下要学的后端语言，同时你还得再学一种数据库的查询语言叫 SQL。
 
-## 任务（PHP）
+## 任务
+
+分支：PHP
 
 1. 《[PHP](https://ninghao.net/package/php?a=51729)》
 2. 《[SQL](https://ninghao.net/package/mysql?a=51729)》
 
-## 任务（Ruby）
+分支：Ruby
 
 1. 《[Ruby](https://ninghao.net/package/ruby?a=51729)》
 2. 《[SQL](https://ninghao.net/package/mysql?a=51729)》
