@@ -20,7 +20,7 @@
 
 ## 下一步
 
-* [后端语言](https://docs.ninghao.net/backend.html)
+* 后端语言
 
 
 

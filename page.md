@@ -12,7 +12,7 @@
 
 ## 下一步
 
-* [准备后端基础设施](https://docs.ninghao.net/infrastructure.html)
+* 准备后端基础设施
 
 
 

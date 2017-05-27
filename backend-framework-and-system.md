@@ -19,7 +19,7 @@
 
 ## 下一步
 
-* [前端应用](https://docs.ninghao.net/frontend-app.html)
+* 前端应用
 
 
 

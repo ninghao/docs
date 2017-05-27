@@ -18,7 +18,7 @@
 
 ## 下一步
 
-* [部署应用](https://docs.ninghao.net/deploy.html)
+* 部署应用
 
 
 
