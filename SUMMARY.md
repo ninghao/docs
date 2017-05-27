@@ -8,7 +8,5 @@
   * [基础设施](infrastructure.md)
   * [后端语言](backend.md)
   * [后端应用](backend-app.md)
-  * [frontend app](frontend-app.md)
-
-
+  * [前端应用](frontend-app.md)
 
