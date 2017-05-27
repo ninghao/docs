@@ -1,8 +1,10 @@
 # 部署应用
 
+一路杀到现在，终于可以把应用部署到真正的服务器上去运行了。现在你需要为网站选择一些云服务，
+
 ## 任务
 
-1. 《[云服务](https://ninghao.net/package/cloud?a=51729)》
+1. 《[阿里云](https://ninghao.net/package/cloud?a=51729)》
 
 
 
